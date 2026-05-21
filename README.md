@@ -17,22 +17,12 @@
 
 ## 💫 Executive Overview
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>I am a full-stack engineer and AI developer pursuing my B.Tech at Parul Institute of Technology. I bridge the gap between heavy algorithmic backend processing and sleek, interactive client interfaces. My development workflow specializes in optimizing machine learning pipelines and creating autonomous agent behaviors.</p>
-      <ul>
-        <li>🤖 <b>AI Focus:</b> Building autonomous AI agents, multi-agent frameworks, and prompt logic pipelines.</li>
-        <li>🚀 <b>Web Systems:</b> Developing production-grade scalable systems using the MERN & Next.js ecosystem.</li>
-        <li>🧠 <b>Core Engineering:</b> Solving complex runtime optimization tasks using Java (DSA), Python, and C.</li>
-        <li>☁️ <b>Cloud Native:</b> Orchestrating containerized systems and microservices across AWS, GCP, and Azure.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphacoder-hash&theme=tokyonight&hide_border=true&layout=compact" width="100%" alt="Top Languages Dashboard" />
-    </td>
-  </tr>
-</table>
+I am a full-stack engineer and AI developer pursuing my B.Tech at Parul Institute of Technology. I bridge the gap between heavy algorithmic backend processing and sleek, interactive client interfaces. My development workflow specializes in optimizing machine learning pipelines and creating autonomous agent behaviors.
+
+* 🤖 **AI Focus:** Building autonomous AI agents, multi-agent frameworks, and prompt logic pipelines.
+* 🚀 **Web Systems:** Developing production-grade scalable systems using the MERN & Next.js ecosystem.
+* 🧠 **Core Engineering:** Solving complex runtime optimization tasks using Java (DSA), Python, and C.
+* ☁️ **Cloud Native:** Orchestrating containerized systems and microservices across AWS, GCP, and Azure.
 
 ---
 
@@ -60,7 +50,7 @@
 ### 🗄️ Database, Infrastructure & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&images&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
@@ -69,56 +59,9 @@
 
 ---
 
-## 📊 Live System Analytics & Statistics
-
-### 🏆 Git Milestones & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alphacoder-hash&theme=tokyonight&no-frame=true&margin-w=4" width="100%" alt="Developer Trophies" />
-</p>
-
-<br />
-
-<!-- BALANCED 2-COLUMN DASHBOARD GRID -->
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <strong>💻 Core Contribution Metrics</strong><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api?username=alphacoder-hash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="95%" alt="Engine Activity Stats" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <strong>🔥 Development Momentum</strong><br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphacoder-hash&theme=tokyonight&hide_border=true" width="95%" alt="Commit Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-### 📈 Modern Interactive Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphacoder-hash&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-</p>
-
----
-
-<!-- INTERACTIVE UX DROP PANEL -->
-<details>
-  <summary><b>🧠 Architecture Philosophy & Runtime Logs (Click to Expand)</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="System Quote" />
-  </p>
-</details>
-
-<br />
-
 <!-- FOOTER SYSTEM INFO -->
 <div align="center">
   <a href="https://buymeacoffee.com/alphacoder">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support Portal" />
   </a>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=alphacoder-hash&color=38B2AC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </div>
