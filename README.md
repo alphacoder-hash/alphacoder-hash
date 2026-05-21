@@ -98,7 +98,7 @@
 
 ### 📈 Modern Interactive Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.add some.workers.dev/graph?username=alphacoder-hash&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphacoder-hash&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -120,6 +120,5 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support Portal" />
   </a>
   <br /><br />
-  <!-- REPLACED WITH HIGH-UPTIME COMPATIBLE COUNTER -->
   <img src="https://komarev.com/ghpvc/?username=alphacoder-hash&color=38B2AC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </div>
