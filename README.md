@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vaibhav+Pandey!;Full-Stack+Web+Engineer;AI+Agent+Developer;Computer+Science+Undergrad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vaibhav+Pandey!;Full-Stack+Web+Developer;AI+Agent+Developer;Computer+Science+Undergrad" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Computer Science Undergraduate (Class of 2027) building full-stack web applications, REST APIs, and autonomous AI-driven workflows.</strong>
+  [cite_start]<strong>Computer Science Undergraduate (Class of 2027) building full-stack web applications, REST APIs, and autonomous AI-driven workflows[cite: 6, 7].</strong>
 </p>
 
 <p align="center">
@@ -14,13 +14,12 @@
 
 ---
 
-## 💫 Executive Summary
+## 💫 Executive Overview
 
-I am an engineer with strong foundations in software engineering, data structures and algorithms, full-stack web development, and AI-assisted software systems. Experienced in building deployed applications, custom REST APIs, and multi-agent workflows through onsite hackathons and collaborative Agile development environments.
+[cite_start]I am an engineer with strong foundations in software engineering, data structures and algorithms, full-stack web development, and AI-assisted software systems[cite: 6]. [cite_start]Experienced in building deployed applications, custom REST APIs, and multi-agent workflows through collaborative Agile development environments[cite: 7].
 
-* 🧠 **Competitive Programming:** LeetCode (Max Rating: **1713**) | CodeChef **3-Star**
-* 🎓 **Education:** B.Tech in Computer Science and Engineering at Parul Institute of Technology (CGPA: **8.17/10.0**)
-* 📍 **Location:** Vadodara, Gujarat, India
+* [cite_start]🧠 **Competitive Programming:** LeetCode (Max Rating: **1713**) [cite: 5] | CodeChef **4-Star** (Max Rating: **1840**)
+* [cite_start]🎓 **Education:** B.Tech in Computer Science and Engineering at Parul Institute of Technology [cite: 27, 28]
 
 ---
 
@@ -40,66 +39,50 @@ I am an engineer with strong foundations in software engineering, data structure
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-### 🗄️ Infrastructure, Tools & Core Fundamentals
+### 🗄️ Database, Infrastructure & Core Fundamentals
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+</p>
+
+### 🛠️ Frontend UI Components & System Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Foundations" />
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </p>
 
-> **Core CS Foundations:** Data Structures & Algorithms • Object-Oriented Programming (OOP) • Database Management Systems (DBMS) • Operating Systems • Computer Networks • System Design
-> **Engineering Practices:** Agile Development • Code Reviews • Unit Testing • CI/CD Automation • Performance Optimisation
+> [cite_start]**Core CS Foundations:** Data Structures & Algorithms • Object-Oriented Programming (OOP) • Database Management Systems (DBMS) • Operating Systems • Computer Networks • System Design [cite: 33]
+> [cite_start]**Engineering Practices:** Agile Development • Code Reviews • Unit Testing • CI/CD Automation • Performance Optimisation [cite: 33]
 
 ---
 
 ## 💼 Engineering Experience
 
 ### **AI Agent Development Contributor** | Centific Premier Hackathon 2.0
-*April 2026 – May 2026 | Hyderabad, India*
-* Developed key components for an AI-infused Agentic SDLC platform supporting **500+ concurrent workflows**, targeting **85%+ requirement recall** and **80%+ precision**.
-* Implemented LLM-driven automation workflows for processing PDF, DOCX, and PPTX documents, contributing to Human-in-the-Loop (HIL) validation and automated reporting within a tight **2-hour SLA window**.
-
----
-
-## 🚀 Featured Engineering Projects
-
-### 📍 **Localo UI** | Location-Based Single Page Application
-* **Performance Architecture:** Optimized application load times by **45%** by engineering a Vite + TypeScript SPA using highly optimized, modular components.
-* **API Integration:** Implemented structured REST API integrations with robust retry logic and error management across **15+ UI components**, eliminating **40%** of codebase duplication.
-* **CI/CD Deployment:** Developed and automated the end-to-end deployment pipeline on Vercel, slicing release deployment windows from days down to **under 30 minutes**.
-
-### 🌾 **AI Agricultural Advisory Platform**
-* **Distributed Backend:** Built a production-ready advisory system using Django REST APIs and Python, pulling from **3 real-time external datasets** to boost decision efficiency by **35%**.
-* **Pipeline Optimization:** Finetuned a Scikit-learn machine learning classification pipeline through feature engineering and hyperparameter tuning, securing **89% prediction accuracy** across 12 crop classes.
-* **Concurrent System Architecture:** Designed a scalable client-server topology engineered to cleanly handle concurrent multi-user production loads.
-
----
-
-## 🏆 Hackathons & Credentials
-
-* 🥇 **Smart India Hackathon (SIH) 2025** – Institute-level qualifier out of 200+ elite competing teams.
-* 🚀 **Ignita Startup Fest 2025** – Ranked among the Top 25 out of 300+ product entries.
-* 💻 **PU Code Hackathon 2.0 & 3.0** – Grand Finalist in both editions.
-* 🎖️ **Vadodara Hackathon 6.0** – Active Onsite Contributor.
-
-<details>
-  <summary><b>🛡️ Professional Certifications (Click to Expand)</b></summary>
-  <br />
-  <ul>
-    <li>AWS Cloud Foundations (2025)</li>
-    <li>Smart Interviews Data Structures & Algorithms (2025)</li>
-    <li>Udemy Full-Stack Web Development Bootcamp (2026)</li>
-    <li>Introduction to Cybersecurity</li>
-  </ul>
-</details>
+[cite_start]*April 2026 – May 2026* [cite: 11]
+* [cite_start]Developed key components for an AI-infused Agentic SDLC platform supporting **500+ concurrent workflows**, targeting **85%+ requirement recall** and **80%+ precision**[cite: 12].
+* [cite_start]Implemented LLM-driven automation workflows for processing PDF, DOCX, and PPTX documents, contributing to Human-in-the-Loop (HIL) validation and automated reporting within a tight **2-hour SLA window**[cite: 13].
 
 ---
 
