@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  [cite_start]<strong>Computer Science Undergraduate (Class of 2027) building full-stack web applications, REST APIs, and autonomous AI-driven workflows[cite: 6, 7].</strong>
+  <strong>Computer Science Undergraduate (Class of 2027) building full-stack web applications, REST APIs, and autonomous AI-driven workflows.</strong>
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ## 💫 Executive Overview
 
-[cite_start]I am an engineer with strong foundations in software engineering, data structures and algorithms, full-stack web development, and AI-assisted software systems[cite: 6]. [cite_start]Experienced in building deployed applications, custom REST APIs, and multi-agent workflows through collaborative Agile development environments[cite: 7].
+I am an engineer with strong foundations in software engineering, data structures and algorithms, full-stack web development, and AI-assisted software systems. Experienced in building deployed applications, custom REST APIs, and multi-agent workflows through collaborative Agile development environments.
 
-* [cite_start]🧠 **Competitive Programming:** LeetCode (Max Rating: **1713**) [cite: 5] | CodeChef **4-Star** (Max Rating: **1840**)
-* [cite_start]🎓 **Education:** B.Tech in Computer Science and Engineering at Parul Institute of Technology [cite: 27, 28]
+* 🧠 **Competitive Programming:** LeetCode (Max Rating: **1713**) | CodeChef **4-Star** (Max Rating: **1840**)
+* 🎓 **Education:** B.Tech in Computer Science and Engineering at Parul Institute of Technology
 
 ---
 
@@ -72,17 +72,17 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </p>
 
-> [cite_start]**Core CS Foundations:** Data Structures & Algorithms • Object-Oriented Programming (OOP) • Database Management Systems (DBMS) • Operating Systems • Computer Networks • System Design [cite: 33]
-> [cite_start]**Engineering Practices:** Agile Development • Code Reviews • Unit Testing • CI/CD Automation • Performance Optimisation [cite: 33]
+> **Core CS Foundations:** Data Structures & Algorithms • Object-Oriented Programming (OOP) • Database Management Systems (DBMS) • Operating Systems • Computer Networks • System Design
+> **Engineering Practices:** Agile Development • Code Reviews • Unit Testing • CI/CD Automation • Performance Optimisation
 
 ---
 
 ## 💼 Engineering Experience
 
 ### **AI Agent Development Contributor** | Centific Premier Hackathon 2.0
-[cite_start]*April 2026 – May 2026* [cite: 11]
-* [cite_start]Developed key components for an AI-infused Agentic SDLC platform supporting **500+ concurrent workflows**, targeting **85%+ requirement recall** and **80%+ precision**[cite: 12].
-* [cite_start]Implemented LLM-driven automation workflows for processing PDF, DOCX, and PPTX documents, contributing to Human-in-the-Loop (HIL) validation and automated reporting within a tight **2-hour SLA window**[cite: 13].
+*April 2026 – May 2026*
+* Developed key components for an AI-infused Agentic SDLC platform supporting **500+ concurrent workflows**, targeting **85%+ requirement recall** and **80%+ precision**.
+* Implemented LLM-driven automation workflows for processing PDF, DOCX, and PPTX documents, contributing to Human-in-the-Loop (HIL) validation and automated reporting within a tight **2-hour SLA window**.
 
 ---
 
